@@ -1,0 +1,7 @@
+memo = "3861144950eb2418c77e6dca61a62fbcd1426f58d8fc83a2eefc547465269a58"
+
+[[projects]]
+  name = "github.com/dgrijalva/jwt-go"
+  packages = ["."]
+  revision = "dbeaa9332f19a944acb5736b4456cfcc02140e29"
+  version = "v3.1.0"
